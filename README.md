@@ -8,3 +8,18 @@ GeoJSON is a format for encoding a variety of geographic data structures.
  - [Africa](https://raw.githubusercontent.com/viniciusparede/world-map-geojson/main/africa.json)
  - [Europe](https://raw.githubusercontent.com/viniciusparede/world-map-geojson/main/europe.json)
  - [Oceania](https://raw.githubusercontent.com/viniciusparede/world-map-geojson/main/oceania.json)
+
+## North America
+ - U.S.A
+ - Mexico 
+ - Canada
+ - Guatemala
+ - Haiti
+ - Cuba
+ - Dominican Republic
+ - Honduras
+ - Nicaragua
+
+## South America
+- Brazil
+- Colombia
