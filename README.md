@@ -1,14 +1,10 @@
 # World Map GeoJSON
 GeoJSON is a format for encoding a variety of geographic data structures.
 
-## North America
-
-## South America
-
-## Asia
-
-## Africa 
-
-## Europe
-
-## Oceania
+## Continents
+ - [North America](https://github.com/viniciusparede/world-map-geojson/blob/main/north_america.json)
+ - [South America](https://raw.githubusercontent.com/viniciusparede/world-map-geojson/main/south_america.json)
+ - [Asia](https://raw.githubusercontent.com/viniciusparede/world-map-geojson/main/asia.json)
+ - [Africa](https://raw.githubusercontent.com/viniciusparede/world-map-geojson/main/africa.json)
+ - [Europe](https://raw.githubusercontent.com/viniciusparede/world-map-geojson/main/europe.json)
+ - [Oceania](https://raw.githubusercontent.com/viniciusparede/world-map-geojson/main/oceania.json)
